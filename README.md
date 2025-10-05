@@ -153,9 +153,10 @@ lstm-projects/
 ---
 
 ## 👨‍💻 Author
-### Syed Danial Asghar Zaidi
-🎓 M.S. in Artificial Intelligence, Beijing Institute of Technology
-💼 Focus areas: Deep Learning, NLP, Time Series Modeling, Medical Imaging
+### Syed Danial Asghar Zaidi <br>
+🎓 M.S. in Artificial Intelligence, Beijing Institute of Technology <br>
+💼 Focus areas: Deep Learning, NLP, Time Series Modeling <br>
 📧 aghadani3@gmail.com
+
 
 ---
